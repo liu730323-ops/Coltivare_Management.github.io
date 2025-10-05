@@ -7,7 +7,6 @@
 <br>
 
 <body>
-
 <h1> <font color = "green" face ="Arial Black"> <b> The Minds Behind the Harvest: Meet the Coltivare Leadership  </b> </font> </h1>
 <br>
 <br>
