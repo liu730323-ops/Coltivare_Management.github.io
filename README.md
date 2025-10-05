@@ -7,7 +7,8 @@
 <br>
 
 <body>
-<h1> <font color = "green" face ="Arial Black"> <b> The Minds Behind the Harvest: Meet the Coltivare Leadership </b> </font> </h1>
+
+<h1> <font color = "green" face ="Arial Black"> <b> The Minds Behind the Harvest: Meet the Coltivare Leadership  </b> </font> </h1>
 <br>
 <br>
 <h2> <font color = "green" face ="Arial Black"> <b> <u>Introduction </u> </b> </font> </h2>
@@ -67,7 +68,9 @@
 <br>
 <ol>
   <li> <font size = "3" face ="Calibri"> <u> Farmer-Centric Innovation:</u> We design our tools by listening to the needs of those in the field. Every feature is developed to solve a real-world challenge, ensuring practical solutions that save time and resources. </font> </li> 
-  <li> <font size = "3" face ="Calibri"><u> Unwavering Sustainability:</u> We are dedicated to developing technology that promotes environmental stewardship. Our products empower farmers to use water, fertilizer, and pesticides more efficiently, protecting the land for future generations. </li> </font>
+  
+  <li> <font size = "3" face ="Calibri"><u> Unwavering Sustainability:</u> We are dedicated to developing technology that promotes environmental stewardship. Our products empower farmers to use water, fertilizer, and pesticides more efficiently, protecting the land for future generations. </font> </li> 
+  
   <li> <font size = "3" face ="Calibri"> <u> Actionable Data, Not Just Data:</u> We believe in transforming complex information into simple, actionable insights. Our platform is designed to provide clear recommendations, not just charts and graphs. </font> </li> 
   <li> <font size = "3" face ="Calibri"> <u> Partnership Over Profit:</u> Our relationship with clients doesn’t end with a sale. We see ourselves as long-term partners, providing ongoing support and evolving our technology to help them grow, season after season. </font> </li>
 </ol>
@@ -77,8 +80,9 @@
 <h3> <font color = "green" face ="Arial Black"> <b> <u>Additional Resources </u> </b> </font> </h3>
 <br>
 <ul>
-  <li> <font size = "3" face ="Calibri"> Dive deeper into our methodology. <a href ="file/coltivare_catalog_2025.pdf" target = "_blank"> Download our free whitepaper: 'The Future of Irrigation: Using Data to Conserve Water and Maximize Yield.’ </a> </li>
-  <li> Stay informed on industry-wide trends. Learn more about sustainable farming practices at <a href ="https://www.usda.gov/topics/sustainability" target = "_blank"> the USDA's official website </a>. </li> </font>
+  <li> <font size = "3" face ="Calibri"> Dive deeper into our methodology. <a href ="file/coltivare_catalog_2025.pdf" target = "_blank"> Download our free whitepaper: 'The Future of Irrigation: Using Data to Conserve Water and Maximize Yield.’ </a> </font> </li>
+
+  <li> <font size = "3" face ="Calibri"> Stay informed on industry-wide trends. Learn more about sustainable farming practices at <a href ="https://www.usda.gov/topics/sustainability" target = "_blank"> the USDA's official website </a>. </font> </li>
 </ul>
 <br>
 <br>
@@ -88,6 +92,6 @@
 Copyright: © 2025 Coltivare | All Rights Reserved.
 <br>
 <br>
-<script>Date Last Modified: document.write(document.lastModified);</script> </font>
+Date Last Modified: <script> document.write(document.lastModified);</script> </font>
 </body>
 </html>
