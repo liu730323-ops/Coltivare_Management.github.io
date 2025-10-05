@@ -35,7 +35,7 @@
 <br>
 <font size = "3" face ="Calibri">Name: <br> Ben Caeter </font>
 <br>
-<font size = "3" face ="Calibri"> Title: <br> Cief Technology Officer (CTO) </font>
+<font size = "3" face ="Calibri"> Title: <br> Chief Technology Officer (CTO) </font>
 <br>
 <font size = "3" face ="Calibri">  Biography: </font>
 <br>
@@ -67,12 +67,12 @@
 <img src ="image/1.jpg" width =480 height = 480>
 <br>
 <ol>
-  <li> <font size = "3" face ="Calibri"> <u> Farmer-Centric Innovation:</u> We design our tools by listening to the needs of those in the field. Every feature is developed to solve a real-world challenge, ensuring practical solutions that save time and resources. </font> </li> 
+  <li> <font size = "3" face ="Calibri"> <u> <font color = “red”> Farmer-Centric Innovation: </font> </u> We design our tools by listening to the needs of those in the field. Every feature is developed to solve a real-world challenge, ensuring practical solutions that save time and resources. </font> </li> 
   
-  <li> <font size = "3" face ="Calibri"><u> Unwavering Sustainability:</u> We are dedicated to developing technology that promotes environmental stewardship. Our products empower farmers to use water, fertilizer, and pesticides more efficiently, protecting the land for future generations. </font> </li> 
+  <li> <font size = "3" face ="Calibri"><u> <font color = “red”> Unwavering Sustainability: </font> </u> We are dedicated to developing technology that promotes environmental stewardship. Our products empower farmers to use water, fertilizer, and pesticides more efficiently, protecting the land for future generations. </font> </li> 
   
-  <li> <font size = "3" face ="Calibri"> <u> Actionable Data, Not Just Data:</u> We believe in transforming complex information into simple, actionable insights. Our platform is designed to provide clear recommendations, not just charts and graphs. </font> </li> 
-  <li> <font size = "3" face ="Calibri"> <u> Partnership Over Profit:</u> Our relationship with clients doesn’t end with a sale. We see ourselves as long-term partners, providing ongoing support and evolving our technology to help them grow, season after season. </font> </li>
+  <li> <font size = "3" face ="Calibri"> <u> <font color = “red”> Actionable Data, Not Just Data: </font> </u> We believe in transforming complex information into simple, actionable insights. Our platform is designed to provide clear recommendations, not just charts and graphs. </font> </li> 
+  <li> <font size = "3" face ="Calibri"> <u> <font color = “red”> Partnership Over Profit: </font> </u> Our relationship with clients doesn’t end with a sale. We see ourselves as long-term partners, providing ongoing support and evolving our technology to help them grow, season after season. </font> </li>
 </ol>
 <br>
 <br>
